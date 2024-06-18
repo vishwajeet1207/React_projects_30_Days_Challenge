@@ -10,7 +10,6 @@ const handleincrease=()=>{
 
   return(
     <div>
-      <h1>Hii</h1>
       <h1>Count:{count}</h1>
       <button onClick={handleincrease}>Increase</button>
     </div>
