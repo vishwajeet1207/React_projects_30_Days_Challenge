@@ -14,4 +14,8 @@ Below is a list of the projects completed each day:
 - **Project Name:** Count Increment
   - **Description:** This is a simple project that allows the user to increase or decrease a count or number.
 
+### Day 2:
+- **Project Name:** Random Number Generator
+  - **Description:**A React application that generates and displays a random number within a user-defined range when a button is clicked.
+
 I will update this daily with the name and description of each new project.
