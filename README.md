@@ -18,4 +18,8 @@ Below is a list of the projects completed each day:
 - **Project Name:** Random Number Generator
   - **Description:**A React application that generates and displays a random number within a user-defined range when a button is clicked.
 
+### Day 4:
+- **Project Name:** BgColorChanger
+  - **Description:**A React application that changes the background color of the page to a random color when a button is clicked.
+
 I will update this daily with the name and description of each new project.
